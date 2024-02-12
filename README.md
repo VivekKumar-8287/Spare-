@@ -22,7 +22,23 @@ Spare Warehouse is an online platform dedicated to providing spare parts for mob
 - Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 - Styled Components: A library for styling React components with tagged template literals.
 
+## Preview
+
+https://github.com/VivekKumar-8287/Spare-Warehouse/assets/104918205/27bfc03e-5a7c-42cf-8ed3-fe8fd23ab246
+
+## Screenshots
+
+![spareone](https://github.com/VivekKumar-8287/Spare-Warehouse/assets/104918205/01287a0a-dc94-4813-a20c-ed2189f605f8)
+![sparethree](https://github.com/VivekKumar-8287/Spare-Warehouse/assets/104918205/33567914-15f8-4428-aa58-35ed7af5696e)
+
+![sparetwo](https://github.com/VivekKumar-8287/Spare-Warehouse/assets/104918205/4f5f61af-439d-499c-9b7d-a835b387df6b)
+![sparefour](https://github.com/VivekKumar-8287/Spare-Warehouse/assets/104918205/3656ba6a-7412-4e98-9fc8-c6e887d8df14)
+![sparewaremobilescreen two](https://github.com/VivekKumar-8287/Spare-Warehouse/assets/104918205/3cfaa5b8-1a54-43d9-9b09-22dc97f97640)
+![sparewaremobilescreen three](https://github.com/VivekKumar-8287/Spare-Warehouse/assets/104918205/71b54c1e-e5a4-4b8d-8575-699a8d927897)
+![sparewaremobilescreen](https://github.com/VivekKumar-8287/Spare-Warehouse/assets/104918205/1d430134-0ee8-432d-80b4-0346bc9c9dfc)
+
 ## Getting Started
+
 
 To get a local copy of this project up and running, follow these steps:
 
